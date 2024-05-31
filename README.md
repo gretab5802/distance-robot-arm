@@ -4,8 +4,8 @@ Project statement: How can we pick up a small object from a distance?
 
 ## Description
 
-Pick small objects up from a distance with a glove, flex sensors, and robot arm.
-Project video: {% include youtube.html id="v=ozF-_InSFqY" %}
+Pick small objects up from a distance with a glove, flex sensors, and robot arm. <br />
+Project video: https://youtu.be/ozF-_InSFqY
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ Requires two flex sensors, one button, one glove, two Arduino boards, two transc
 
 ## Authors
 
-Greta Brown
-Joshua Aldrich
-Mason Overman
+Greta Brown <br />
+Joshua Aldrich <br />
+Mason Overman <br />
 Daniel Reyes
