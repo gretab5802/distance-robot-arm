@@ -5,6 +5,7 @@ Project statement: How can we pick up a small object from a distance?
 ## Description
 
 Pick small objects up from a distance with a glove, flex sensors, and robot arm.
+Project video: {% include youtube.html id="v=ozF-_InSFqY" %}
 
 ## Getting Started
 
